@@ -1,2 +1,16 @@
-# Music-and-Art
-Music and Art is an educational+fun app made using Flutter that uses Firebase as a backend. The app also has Admin Panel where the admin can list all the latest videos, lessons and audio files related to child's education into respected categories. Also, Users receive a customized Notification on a Mobile App when admin wants to send it.
+# music_and_art
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
